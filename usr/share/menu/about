@@ -1,0 +1,4 @@
+?package(controlaula):needs="X11" section "Apps/System/Base"\
+title="About"\
+command="/usr/bin/about.gambas"\
+icon="/usr/share/pixmaps/about.png"

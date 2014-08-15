@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=About
+Name[de]=Über
+Comment=About Window ZevenOS
+Comment[de]=Über Fenster von ZevenOS
+Exec=/usr/bin/About.gambas
+Icon=/usr/share/pixmaps/about.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;

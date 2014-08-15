@@ -1,0 +1,10 @@
+Package: about
+Version: 1.0.100-5
+Architecture: all
+Maintainer: leszek <leszek@zebuntu.com>
+Installed-Size: 108
+Depends: gambas2-runtime (>= 1.9.48), gambas2-runtime (<< 2.90), gambas2-gb-gtk (>= 1.9.48), gambas2-gb-gtk (<< 2.90)
+Section: System
+Priority: optional
+Description: About Window ZevenOS
+ This program is written in Gambas
